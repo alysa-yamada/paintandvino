@@ -1,0 +1,131 @@
+@media screen and (max-width: 600px) {
+    .nomobile {
+      display:none;
+    }
+    .big-heading {
+      font-size: 2rem;
+      text-align: center;
+    }
+
+    .payment-text {
+        font-size: 1rem;
+    }
+
+    .heading {
+        font-size: 1.5rem;
+        
+    }
+
+    .pv-logo {
+        width: 105%;
+    }
+
+    .testimonial-text {
+        font-size: 1rem;
+    }
+
+   
+    .feature-icons {
+        width: 50%;
+    }
+
+    .feature-text {
+        font-size: 1rem;
+    }
+
+    .col-lg-3 {
+        width: 50% !important;
+    }
+
+    .gallery-img {
+        width: 100%;
+    }
+
+    .strv-img {
+        width: 60%;
+        height: auto;
+        
+    }
+
+    .mobile-padding {
+        padding: 3%;
+    }
+
+    .card-title {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .nomobile {
+        display: none;
+    }
+
+    .big-heading {
+        font-size: 1.4rem;
+    }
+
+    .strv-img {
+        width: 75%;
+        height: auto;
+        
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+    .card-padding {
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .card {
+        width: 14rem;
+    }
+    .contact-heading {
+        font-size: 1.3rem;
+    }
+
+    .feature-text {
+        font-size: 1rem;
+    }
+
+    .feature-title {
+        font-size: 1.2rem;
+    }
+
+    .h2-location {
+        font-size: 2rem;
+    }
+
+    .p-location {
+        font-size: 1rem;
+    }
+    
+    .heading-text {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .big-heading {
+        text-align: center;
+    }
+    .noipad {
+        display: none;
+    }
+    .heading-text {
+        text-align: center;
+    }
+
+    .strv-img {
+        width: 75%;
+        height: auto;
+        
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .nodesktop {
+        display: none;
+    }
+}
